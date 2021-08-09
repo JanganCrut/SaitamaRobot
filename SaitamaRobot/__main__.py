@@ -241,8 +241,8 @@ def start(update: Update, context: CallbackContext):
                                 url="https://t.me/CritozyPublic/322",
                             ),
                             InlineKeyboardButton(
-                                text="🗄 Source code",
-                                url="https://github.com/JanganCrut/SaitamaRobot",    
+                                text="🧑🏻‍💻 Owner",
+                                url="https://t.me//Oreooo",    
                             ),
                         ],
                     ],
